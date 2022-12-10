@@ -1,0 +1,34 @@
+[
+
+    {
+      "id": 5,
+        "group":"2gen",
+      "jname": "アステル・レダ", 
+      "ename": "Astel Leda", 
+      "birthday": "June 6",
+      "debutdate": "December 7, 2019",
+      "img":"Astel.png",
+      "youtube": "https://www.youtube.com/@AstelLeda"
+    },
+    {
+      "id": 6,
+        "group":"2gen",
+      "jname": "岸堂天真", 
+      "ename": "Kishido Temma", 
+      "birthday": "April 18",
+      "debutdate": "December 14, 2019",
+      "img":"Temma.png",
+      "youtube": "https://www.youtube.com/@KishidoTemma"
+    },
+    {
+      "id": 7,
+      "jname": "夕刻ロベル", 
+        "group":"2gen",
+      "ename": "Yukoku Roberu", 
+      "birthday": "September 26",
+      "debutdate": "December 24, 2019",
+      "img":"Roberu.png",
+      "youtube": "https://www.youtube.com/@YukokuRoberu"
+    }
+
+  ]
