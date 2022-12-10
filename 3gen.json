@@ -1,0 +1,24 @@
+[
+
+    {
+      "id": 8,
+      "jname": "影山シエン", 
+        "group":"3gen",
+      "ename": "Kageyama Shien", 
+      "birthday": "February 25",
+      "debutdate": "April 30, 2020",
+      "img":"Shien.png",
+      "youtube": "https://www.youtube.com/@KageyamaShien"
+    },
+    {
+      "id": 9,
+      "jname": "荒咬オウガ", 
+        "group":"3gen",
+      "ename": "Aragami Oga", 
+      "birthday": "January 15",
+      "debutdate": "May 1, 2020",
+      "img":"Oga.png",
+      "youtube": "https://www.youtube.com/@AragamiOga"
+    }
+
+  ]
