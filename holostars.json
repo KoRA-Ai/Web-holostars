@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "jname": "花咲みやび", 
+      "ename": "Hanasaki Miyabi", 
+      "birthday": "March 03",
+      "debutdate": "June 08, 2019",
+      "img":"Miyabi.png",
+      "youtube": "https://www.youtube.com/@HanasakiMiyabi"
+    },
+    {
+      "id": 2,
+      "jname": "奏手イヅル", 
+      "ename": "Kanade Izuru", 
+      "birthday": "August 12",
+      "debutdate": "June 22, 2019",
+      "img":"Izuru.png",
+      "youtube": "https://www.youtube.com/@KanadeIzuru"
+    },
+    {
+      "id": 3,
+      "jname": "アルランディス", 
+      "ename": "Arurandeisu", 
+      "birthday": "November 11",
+      "debutdate": "September 8, 2019",
+      "img":"Aruran.png",
+      "youtube": "https://www.youtube.com/@Arurandeisu"
+    },
+    {
+      "id": 4,
+      "jname": "律可", 
+      "ename": "Rikka", 
+      "birthday": "April 15",
+      "debutdate": "October 20, 2019",
+      "img":"Rikka.png",
+      "youtube": "https://www.youtube.com/@rikka"
+    },
+    {
+      "id": 5,
+      "jname": "アステル・レダ", 
+      "ename": "Astel Leda", 
+      "birthday": "June 6",
+      "debutdate": "December 7, 2019",
+      "img":"Astel.png",
+      "youtube": "https://www.youtube.com/@AstelLeda"
+    },
+    {
+      "id": 6,
+      "jname": "岸堂天真", 
+      "ename": "Kishido Temma", 
+      "birthday": "April 18",
+      "debutdate": "December 14, 2019",
+      "img":"Temma.png",
+      "youtube": "https://www.youtube.com/@KishidoTemma"
+    },
+    {
+      "id": 7,
+      "jname": "夕刻ロベル", 
+      "ename": "Yukoku Roberu", 
+      "birthday": "September 26",
+      "debutdate": "December 24, 2019",
+      "img":"Roberu.png",
+      "youtube": "https://www.youtube.com/@YukokuRoberu"
+    },
+    {
+      "id": 8,
+      "jname": "影山シエン", 
+      "ename": "Kageyama Shien", 
+      "birthday": "February 25",
+      "debutdate": "April 30, 2020",
+      "img":"Shien.png",
+      "youtube": "https://www.youtube.com/@KageyamaShien"
+    },
+    {
+      "id": 9,
+      "jname": "荒咬オウガ", 
+      "ename": "Aragami Oga", 
+      "birthday": "January 15",
+      "debutdate": "May 1, 2020",
+      "img":"Oga.png",
+      "youtube": "https://www.youtube.com/@AragamiOga"
+    }
+
+  ]
