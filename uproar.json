@@ -1,0 +1,39 @@
+[
+    {
+      "id": 10,
+      "jname": "夜十神 封魔", 
+      "ename": "Yatogami Fuma", 
+      "birthday": "July 13",
+      "debutdate": "March 29, 2022",
+      "img":"Fuma.png",
+      "youtube": "https://www.youtube.com/@YatogamiFuma"
+    },
+    {
+      "id": 11,
+      "jname": "羽継 烏有", 
+      "ename": "Utsugi Uyu", 
+      "birthday": "May 10",
+      "debutdate": "March 29, 2022",
+      "img":"Uyu.png",
+      "youtube": "https://www.youtube.com/@UtsugiUyu"
+    },
+    {
+      "id": 12,
+      "jname": "緋崎 ガンマ", 
+      "ename": "Hizaki Gamma", 
+      "birthday": "February 9",
+      "debutdate": "March 30, 2022",
+      "img":"Gamma.png",
+      "youtube": "https://www.youtube.com/@HizakiGamma"
+    },
+    {
+      "id": 13,
+      "jname": "水無世 燐央", 
+      "ename": "Minase Rio", 
+      "birthday": "July 26",
+      "debutdate": "March 30, 2022",
+      "img":"Rio.png",
+      "youtube": "https://www.youtube.com/@MinaseRio"
+    }
+
+  ]
